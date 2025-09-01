@@ -12,8 +12,6 @@ In this project, I recreated the classic **Snake Game** on a **16x2 I2C LCD** us
 - Efficient game loops  
 - Collision detection logic  
 - Score tracking  
-
----
 ````
 ![imagealt](images/pixel_snake_display.jpg)
 
@@ -36,7 +34,6 @@ In this project, I recreated the classic **Snake Game** on a **16x2 I2C LCD** us
 
 ---
 
-
 ## 🔹 Connections
 
 #### **1. 16x2 I2C LCD**
@@ -57,14 +54,10 @@ In this project, I recreated the classic **Snake Game** on a **16x2 I2C LCD** us
 | One leg    | Digital Pin 7 (BUTTON\_RIGHT) |
 | Other leg  | GND                           |
 
-
----
-
 ````
 ## 🔹 Circuit Diagram
 
 ![imagealt](images/pixel_snake_circuit.png) 
-
 ---
 ````
 ## 🔹 Installation & Usage
@@ -102,13 +95,3 @@ The game logic is implemented using:
 ## 🔹 License
 
 This project is licensed under the **MIT License**.
-
-```
-
----
-
-If you want, I can **also make a “GitHub-friendly folder structure” suggestion** including your `.ino` file, images, and this README so you can push the whole project cleanly.  
-
-Do you want me to do that?
-```
-
